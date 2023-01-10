@@ -1,0 +1,4 @@
+1. status column in sme retainership packages section
+2. in add client section affilated institution to compani name
+3. palikas and city different
+4. other country number should be reginster in add inquery
